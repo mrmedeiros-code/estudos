@@ -1,0 +1,14 @@
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\bin\Debug\net9.0\MiniGameProject.exe
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\bin\Debug\net9.0\MiniGameProject.deps.json
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\bin\Debug\net9.0\MiniGameProject.runtimeconfig.json
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\bin\Debug\net9.0\MiniGameProject.dll
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\bin\Debug\net9.0\MiniGameProject.pdb
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.AssemblyInfoInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.AssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.csproj.CoreCompileInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.dll
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\refint\MiniGameProject.dll
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.pdb
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\MiniGameProject.genruntimeconfig.cache
+c:\Users\mathe\OneDrive\Documentos\Aprendizado\CSharp\MiniGameProject\obj\Debug\net9.0\ref\MiniGameProject.dll
