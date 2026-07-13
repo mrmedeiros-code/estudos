@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrKVRvdbESM=",
+  "dgSpecHash": "WQm7+KT9tLw=",
   "success": true,
   "projectFilePath": "/home/ssuporte/estudos-csharp/ProjSite/ProjSite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ssuporte/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.0/microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/10.0.9/microsoft.aspnetcore.mvc.razor.runtimecompilation.10.0.9.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2/microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.codeanalysis.common/4.0.0/microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.codeanalysis.csharp/4.0.0/microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.codeanalysis.razor/6.0.0/microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
+    "/home/ssuporte/.nuget/packages/microsoft.extensions.dependencymodel/10.0.9/microsoft.extensions.dependencymodel.10.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
