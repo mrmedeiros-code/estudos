@@ -4,11 +4,14 @@ namespace MyApp.Namespace
 {
     public class HomeController : Controller
     {
-        // GET: HomeController
-        public ActionResult Index(string id)
+        public ActionResult Index()
         {
             return View();
         }
 
+        public ActionResult Contato()
+        {
+            return View();
+        }
     }
 }

@@ -1,18 +1,27 @@
+using Microsoft.AspNetCore.Mvc.Routing;
+
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-
 app.UseRouting();
 
 app.UseAuthorization();
 
+app.MapStaticAssets();
+
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}"
-);
+    name: "Home.Index",
+    pattern: "",
+    defaults : new { controller = "Home", action = "Index" }) 
+    .WithStaticAssets();
+
+app.MapControllerRoute(
+    name : "Home.Contato",
+    pattern : "contato",
+    defaults : new { controller = "Home", action = "Contato" });
 
 app.Run();
