@@ -287,21 +287,6 @@ Após executar operações no seu aplicativo C#:
 - ✅ Use `dotnet watch` para desenvolvimento rápido com hot reload
 - ✅ Antes de rodar, verifique: `docker ps` (SQL Server) e `dotnet --version`
 
----
-
-## Possíveis Melhorias Futuras
-
-- [ ] Buscar por Nome ou Email (não apenas por ID)
-- [ ] Paginação para tabelas com muitos registros
-- [ ] Validação de email com regex
-- [ ] Exportar dados para CSV/Excel
-- [ ] Sistema de logs de operações
-- [ ] Interface gráfica (WinForms/WPF/Blazor)
-- [ ] Autenticação de usuários
-- [ ] Backup automático do banco
-
----
-
 ## Resumo das Tecnologias Utilizadas
 
 | Tecnologia | Versão | Uso |
