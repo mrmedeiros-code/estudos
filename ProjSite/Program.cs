@@ -19,9 +19,4 @@ app.MapControllerRoute(
     defaults : new { controller = "Home", action = "Index" }) 
     .WithStaticAssets();
 
-app.MapControllerRoute(
-    name : "Home.Contato",
-    pattern : "contato",
-    defaults : new { controller = "Home", action = "Contato" });
-
 app.Run();

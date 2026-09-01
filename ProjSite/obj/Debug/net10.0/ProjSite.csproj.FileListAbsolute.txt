@@ -20,6 +20,7 @@
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/scopedcss/bundle/ProjSite.styles.css
+/home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/compressed/3iteogo8xy-{0}-5ipweew5fc-5ipweew5fc.gz
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/staticwebassets.build.json
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/staticwebassets.development.json

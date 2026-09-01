@@ -8,10 +8,5 @@ namespace MyApp.Namespace
         {
             return View();
         }
-
-        public ActionResult Contato()
-        {
-            return View();
-        }
     }
 }
