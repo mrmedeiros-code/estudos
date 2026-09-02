@@ -25,3 +25,7 @@ build_property.EnableCodeStyleSeverity =
 [/home/ssuporte/estudos-csharp/ProjSite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ssuporte/estudos-csharp/ProjSite/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Tb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

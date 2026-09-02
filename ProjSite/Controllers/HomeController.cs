@@ -8,5 +8,10 @@ namespace MyApp.Namespace
         {
             return View();
         }
+
+        public ActionResult Sobre()
+        {
+            return View();
+        }
     }
 }

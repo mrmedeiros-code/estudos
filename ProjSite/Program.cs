@@ -1,4 +1,6 @@
+using AspNetCoreGeneratedDocument;
 using Microsoft.AspNetCore.Mvc.Routing;
+using MyApp.Namespace;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,8 +17,14 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "Home.Index",
-    pattern: "",
-    defaults : new { controller = "Home", action = "Index" }) 
+    pattern: "{controller=Home}/{action=Index}")
     .WithStaticAssets();
+
+app.MapControllerRoute (
+    name: "Home.Sobre",
+    pattern: "Sobre",
+    defaults: new {controller = "Home", action = "Sobre"}
+);
+
 
 app.Run();

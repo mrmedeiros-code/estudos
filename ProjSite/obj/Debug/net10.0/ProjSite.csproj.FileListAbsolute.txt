@@ -30,4 +30,4 @@
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/ProjSite.pdb
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/ProjSite.genruntimeconfig.cache
 /home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/ref/ProjSite.dll
-/home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/compressed/3iteogo8xy-{0}-36yyihegb9-36yyihegb9.gz
+/home/ssuporte/estudos-csharp/ProjSite/obj/Debug/net10.0/compressed/3iteogo8xy-{0}-30qsl6kuau-30qsl6kuau.gz
