@@ -1,7 +1,8 @@
-#centerRow {
-    padding-top: 20px;
+body {
+    overflow-x: hidden;
+    max-width: 100%;
 }
 
-#porticon {
-    
+#centerRow {
+    padding-top: 20px;
 }
