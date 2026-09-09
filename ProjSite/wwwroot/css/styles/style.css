@@ -1,0 +1,17 @@
+@keyframes showUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#texth{
+    animation: showUp 1.2s ease-out;
+}
+
+
