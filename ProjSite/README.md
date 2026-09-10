@@ -4,7 +4,8 @@ próxima commit:
     2 - Entender mais sobre Boostrap Scrollspy e tentar adiciona-lo
     3 - Criar um pequeno footer com um link para aba secreta
 
-    [NOTA 09/09: entendi o funcionamento do Scrollspy, mas ainda não tenho conteúdo para mostrar. Atualizei o estilo do Index. Adicionarei conteúdo no próximo commit
+    [NOTA 09/09: entendi o funcionamento do Scrollspy, mas ainda não tenho conteúdo para mostrar. Atualizei o estilo do Index. Adicionarei conteúdo no próximo commit]
+    [NOTA 10/09: adicionei um texto na aba Sobre Mim, mas ainda falta atualizar mais coisas...(Também adicionei um pequeno Scrollspy!) Ajustei o bug da animação que mantinha o opacity em 1 mesmo antes da animação]
 
 commits futuras:
     
