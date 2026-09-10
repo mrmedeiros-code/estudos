@@ -1,13 +1,4 @@
 nav {
-    background-color: rgb(241, 241, 241);
+    background-color: #F2F0EF;
     --bs-nav-link-padding-x: 1rem;
-}
-
-.navbar-nav.nav-underline {
-    gap: 0;
-}
-
-.navbar-nav.nav-underline .nav-link {
-    padding-left: 0.25rem;
-    padding-right: 0.25rem;
 }

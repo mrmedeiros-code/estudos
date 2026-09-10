@@ -1,3 +1,7 @@
+body {
+    background-color: #F2F0EF;
+}
+
 @keyframes showUp {
     from {
         opacity: 0;
@@ -10,8 +14,30 @@
     }
 }
 
-#texth{
-    animation: showUp 1.2s ease-out;
+.hero {
+    min-height: 95vh;
 }
 
+#container-hero {
+    padding: 280px 0 0 0;
+    
+}
 
+#principal-text-hero {
+    opacity: 0;
+    animation: showUp 1.2s ease-out;
+    animation-delay: 1.2s;
+    animation-fill-mode: forwards;
+}
+
+#secondary-text-hero {
+    opacity: 0;
+    padding: 200px;
+    animation: showUp 1.2s ease-out;
+    animation-delay: 2.5s;
+    animation-fill-mode: forwards;
+}
+
+#aboutme-text {
+    padding: 20px 50px 0;
+}
